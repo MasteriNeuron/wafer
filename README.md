@@ -22,9 +22,14 @@ pip install -r requirements.txt
 ```
 python app.py
 ```
+
+
+
+.github\workflows\main.yml
+
 hekllovcb
 
-🔧 Built with MUZU
+🔧 Built with 
 - flask
 - Python 3.8
 - Machine learning
